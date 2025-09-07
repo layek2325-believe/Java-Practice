@@ -2,7 +2,7 @@ public class TypeCasting{
 
     // in this program we will convert double type to integer type
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         double num1 = 500;
         int num2 = 10, sum;
